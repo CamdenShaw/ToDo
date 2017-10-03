@@ -12,6 +12,7 @@ class App extends Component {
     todos: [
       { id: 1, name: "Learn React, Wohoool", completed: false },
       { id: 2, name: "Learn Angular, eeeeww a lot ", completed: false },
+      { id: 3, name: "Learn JS to be a ninja", completed: false },
     ],
     inputValue: '',
     isLoading: false,
