@@ -10,9 +10,8 @@ import './App.css';
 class App extends Component {
   state = {
     todos: [
-      { id: 1, name: "Learn React", completed: false },
-      { id: 2, name: "Learn Angular, eeeeww", completed: false },
-      { id: 3, name: "Learn JSX, :D ", completed: false },
+      { id: 1, name: "Learn React, Wohoool", completed: false },
+      { id: 2, name: "Learn Angular, eeeeww a lot ", completed: false },
     ],
     inputValue: '',
     isLoading: false,
